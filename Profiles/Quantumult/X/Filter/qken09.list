@@ -20,12 +20,12 @@ DOMAIN-KEYWORD,mc.webvisor.org,qken09
 # > javmost 
 USER-AGENT,javmost*,qken09
 DOMAIN-KEYWORD,javmost,qken09
-DOMAIN-SUFFIX,javmost.com,qken09
-DOMAIN-SUFFIX,remarketingpixel,qken09
+DOMAIN-KEYWORD,javmost.com,qken09
+DOMAIN-KEYWORD,remarketingpixel,qken09
 
 
-#DOMAIN-SUFFIX,javmost.com,qken09
-#DOMAIN-SUFFIX,remarketingpixel,qken09
+#DOMAIN-KEYWORD,javmost.com,qken09
+#DOMAIN-KEYWORD,remarketingpixel,qken09
 
 # > avgle
 USER-AGENT,avgle*,qken09
