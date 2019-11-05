@@ -11,4 +11,9 @@ DOMAIN-SUFFIX,javmost.com,qken09
 USER-AGENT,avgle*,qken09
 DOMAIN-KEYWORD,avgle,qken09
 DOMAIN-SUFFIX,avgle.com,qken09
+# > githubusercontent
+USER-AGENT,githubusercontent*,qken09
+DOMAIN-KEYWORD,githubusercontent,qken09
+DOMAIN-SUFFIX,githubusercontent.com,qken09
+
 
