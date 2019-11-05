@@ -18,14 +18,10 @@ DOMAIN-KEYWORD,hlsmp4.com,qken09
 DOMAIN-KEYWORD,strictdevelopers.ru,qken09
 DOMAIN-KEYWORD,mc.webvisor.org,qken09
 # > javmost 
-USER-AGENT,javmost*,qken09
 DOMAIN-KEYWORD,javmost,qken09
-DOMAIN-KEYWORD,javmost.com,qken09
 DOMAIN-KEYWORD,remarketingpixel,qken09
-
-
-#DOMAIN-KEYWORD,javmost.com,qken09
-#DOMAIN-KEYWORD,remarketingpixel,qken09
+DOMAIN-KEYWORD,olmsoneenh.info,qken09
+DOMAIN-KEYWORD,cdnjs.cloudflare.com,qken09
 
 # > avgle
 USER-AGENT,avgle*,qken09
