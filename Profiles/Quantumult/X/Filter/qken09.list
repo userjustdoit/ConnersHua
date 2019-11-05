@@ -15,8 +15,12 @@ DOMAIN-SUFFIX,avgle.com,qken09
 USER-AGENT,githubusercontent*,qken09
 DOMAIN-KEYWORD,githubusercontent,qken09
 DOMAIN-SUFFIX,githubusercontent.com,qken09
-
 # > losadhwselfff2332dasd
 USER-AGENT,losadhwselfff2332dasd*,qken09
 DOMAIN-KEYWORD,losadhwselfff2332dasd,qken09
 DOMAIN-SUFFIX,losadhwselfff2332dasd.xyz,qken09
+# > sub.com.de
+USER-AGENT,sub.com.de*,qken09
+DOMAIN-KEYWORD,sub.com.de,qken09
+DOMAIN-SUFFIX,sub.com.de,qken09
+
