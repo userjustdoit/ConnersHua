@@ -1,0 +1,13 @@
+# (qken09)
+# > netflav
+USER-AGENT,netflav*,qken09
+DOMAIN-SUFFIX,netflav,qken09
+DOMAIN-SUFFIX,netflav.com,qken09
+# > javmost avgle
+USER-AGENT,javmost*,qken09
+DOMAIN-SUFFIX,javmost,qken09
+DOMAIN-SUFFIX,javmost.com,qken09
+# > avgle
+USER-AGENT,avgle*,qken09
+DOMAIN-SUFFIX,avgle,qken09
+DOMAIN-SUFFIX,avgle.com,qken09
