@@ -1,1 +1,9 @@
+#customdirect.list
 http://cloudcompute.lbyczf.com/x-rule-set?url=https://raw.githubusercontent.com/KOP-XIAO/Surge-Rules/master/rule-set/customdirect.list
+
+#AdRule.list
+https://raw.githubusercontent.com/limbopro/Script/master/QuantumultX/AdRule.list
+
+#Rewrite_lhie1.conf
+https://raw.githubusercontent.com/limbopro/Script/master/QuantumultX/Rewrite_lhie1.conf
+
