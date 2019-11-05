@@ -3,6 +3,9 @@
 USER-AGENT,netflav*,qken09
 DOMAIN-KEYWORD,netflav,qken09
 DOMAIN-SUFFIX,netflav.com,qken09
+USER-AGENT,iptv186*,qken09
+DOMAIN-KEYWORD,iptv186,qken09
+DOMAIN-SUFFIX,wx.iptv186.com,qken09
 # > javmost 
 USER-AGENT,javmost*,qken09
 DOMAIN-KEYWORD,javmost,qken09
