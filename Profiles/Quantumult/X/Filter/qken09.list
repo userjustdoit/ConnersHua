@@ -30,7 +30,10 @@ DOMAIN-KEYWORD,ghdccdtxvnpo,qken09
 DOMAIN-KEYWORD,gntzacjc,qken09
 DOMAIN-KEYWORD,jwpcdn,qken09
 DOMAIN-KEYWORD,exosrv,qken09
-DOMAIN-KEYWORD,verystream.filestar.club,qken09
+DOMAIN-KEYWORD,filestar.club,qken09
+# > coub
+DOMAIN-KEYWORD,coub,qken09
+
 # > avgle
 USER-AGENT,avgle*,qken09
 DOMAIN-KEYWORD,avgle,qken09
