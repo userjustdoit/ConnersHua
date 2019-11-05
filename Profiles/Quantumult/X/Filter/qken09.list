@@ -6,17 +6,17 @@ DOMAIN-SUFFIX,netflav.com,qken09
 USER-AGENT,iptv186*,qken09
 DOMAIN-KEYWORD,iptv186,qken09
 DOMAIN-SUFFIX,wx.iptv186.com,qken09
-DOMAIN-KEYWORD,ocsp.digicert.com,qken09
-DOMAIN-KEYWORD,www.worldhello.net,qken09
-DOMAIN-KEYWORD,www.avple.video,qken09
+DOMAIN-KEYWORD,digicert,qken09
+DOMAIN-KEYWORD,worldhello.net,qken09
+DOMAIN-KEYWORD,avple.video,qken09
 DOMAIN-KEYWORD,diveng.tk,qken09
 DOMAIN-KEYWORD,console.vproxy.org,qken09
 DOMAIN-KEYWORD,portal.2cy.cloud,qken09
 DOMAIN-KEYWORD,fvs.io,qken09
-DOMAIN-KEYWORD,greedseed.world,qken09
-DOMAIN-KEYWORD,hlsmp4.com,qken09
-DOMAIN-KEYWORD,strictdevelopers.ru,qken09
-DOMAIN-KEYWORD,mc.webvisor.org,qken09
+DOMAIN-KEYWORD,greedseed,qken09
+DOMAIN-KEYWORD,hlsmp4,qken09
+DOMAIN-KEYWORD,strictdevelopers,qken09
+DOMAIN-KEYWORD,webvisor,qken09
 # > javmost 
 DOMAIN-KEYWORD,javmost,qken09
 DOMAIN-KEYWORD,remarketingpixel,qken09
@@ -26,13 +26,11 @@ DOMAIN-KEYWORD,www.counevan.pro,qken09
 DOMAIN-KEYWORD,qooqlevideo,qken09
 DOMAIN-KEYWORD,letsencrypt,qken09 
 DOMAIN-KEYWORD,superitu,qken09
-
 DOMAIN-KEYWORD,ghdccdtxvnpo,qken09
 DOMAIN-KEYWORD,gntzacjc,qken09
 DOMAIN-KEYWORD,jwpcdn,qken09
 DOMAIN-KEYWORD,exosrv,qken09
 DOMAIN-KEYWORD,verystream.filestar.club,qken09
-
 # > avgle
 USER-AGENT,avgle*,qken09
 DOMAIN-KEYWORD,avgle,qken09
