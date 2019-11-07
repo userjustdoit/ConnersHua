@@ -37,8 +37,13 @@
 DOMAIN-KEYWORD,coub,qken09
 # > waifu
 DOMAIN-KEYWORD,wakamoment,qken09
-# > spotify
-DOMAIN-KEYWORD,spotify,qken09
+# > Spotify
+USER-AGENT,Spotify*,qken09
+DOMAIN-SUFFIX,pscdn.co,qken09
+DOMAIN-SUFFIX,scdn.co,qken09
+DOMAIN-SUFFIX,spotify.com,qken09
+DOMAIN-SUFFIX,spoti.fi,qken09
+IP-CIDR,35.186.224.47/32,qken09
 # > ted
 DOMAIN-KEYWORD,tedcdn.com,qken09
 DOMAIN-KEYWORD,ted.com,qken09
