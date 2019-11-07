@@ -5,8 +5,8 @@ USER-AGENT,restaurant-mobile*,DIRECT
 DOMAIN,app.adjust.com,DIRECT
 # > Google
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
-DOMAIN,analyticsinsights-pa.googleapis.com,SSID
-DOMAIN,analyticsreporting.googleapis.com,SSID
+DOMAIN,analyticsinsights-pa.googleapis.com,qken09
+DOMAIN,analyticsreporting.googleapis.com,qken09
 DOMAIN,dl.google.com,DIRECT
 DOMAIN,mtalk.google.com,DIRECT
 # > Tencent
