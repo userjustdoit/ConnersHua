@@ -1,38 +1,4 @@
 # (qken09)
-# > netflav
-#USER-AGENT,netflav*,qken09
-#DOMAIN-KEYWORD,netflav,qken09
-#DOMAIN-SUFFIX,netflav.com,qken09
-#USER-AGENT,iptv186*,qken09
-#DOMAIN-KEYWORD,iptv186,qken09
-#DOMAIN-SUFFIX,wx.iptv186.com,qken09
-#DOMAIN-KEYWORD,digicert,qken09
-#DOMAIN-KEYWORD,worldhello.net,qken09
-#DOMAIN-KEYWORD,avple.video,qken09
-#DOMAIN-KEYWORD,diveng.tk,qken09
-#DOMAIN-KEYWORD,console.vproxy.org,qken09
-#DOMAIN-KEYWORD,portal.2cy.cloud,qken09
-#DOMAIN-KEYWORD,fvs.io,qken09
-#DOMAIN-KEYWORD,greedseed,qken09
-#DOMAIN-KEYWORD,hlsmp4,qken09
-#DOMAIN-KEYWORD,strictdevelopers,qken09
-#DOMAIN-KEYWORD,webvisor,qken09
-#DOMAIN-KEYWORD,avgle,qken09
-# > javmost 
-#DOMAIN-KEYWORD,javmost,qken09
-#DOMAIN-KEYWORD,remarketingpixel,qken09
-#DOMAIN-KEYWORD,olmsoneenh.info,qken09
-#DOMAIN-KEYWORD,cdnjs.cloudflare.com,qken09
-#DOMAIN-KEYWORD,www.counevan.pro,qken09
-#DOMAIN-KEYWORD,qooqlevideo,qken09
-#DOMAIN-KEYWORD,letsencrypt,qken09 
-#DOMAIN-KEYWORD,superitu,qken09
-#DOMAIN-KEYWORD,ghdccdtxvnpo,qken09
-#DOMAIN-KEYWORD,gntzacjc,qken09
-#DOMAIN-KEYWORD,jwpcdn,qken09
-#DOMAIN-KEYWORD,exosrv,qken09
-#DOMAIN-KEYWORD,filestar.club,qken09
-##########################
 # > coub
 DOMAIN-KEYWORD,coub,qken09
 # > waifu
@@ -63,14 +29,4 @@ USER-AGENT,githubusercontent*,qken09
 DOMAIN-KEYWORD,githubusercontent,qken09
 DOMAIN-SUFFIX,githubusercontent.com,qken09
 ###################订阅连接start#######################
-# > ssrcloud
-USER-AGENT,losadhwselfff2332dasd*,qken09
-DOMAIN-KEYWORD,losadhwselfff2332dasd,qken09
-DOMAIN-SUFFIX,losadhwselfff2332dasd.xyz,qken09
-# > 二次元
-DOMAIN-KEYWORD,cylink.sub.pet,qken09
-DOMAIN-KEYWORD,letsencrypt.org,qken09
-DOMAIN-KEYWORD,notion.so,qken09
-DOMAIN-KEYWORD,dove.589669.xyz,qken09
-
 ###################订阅连接end########################
